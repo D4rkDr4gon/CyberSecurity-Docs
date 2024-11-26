@@ -33,17 +33,17 @@ Contribuir
 
 Si deseas colaborar, asegúrate de seguir estas pautas:
 
-    Clonar el repositorio:
+Clonar el repositorio:
 
-git clone  https://github.com/D4rkDr4gon/CyberSecurity-Docs
+    git clone  https://github.com/D4rkDr4gon/CyberSecurity-Docs
 
 Crear un branch para tus contribuciones:
 
     git checkout -b nueva-contribucion  
 
-    Realiza tus cambios y asegúrate de que los documentos estén bien formateados.
+Realiza tus cambios y asegúrate de que los documentos estén bien formateados.
 
-    Envíanos un Pull Request explicando brevemente qué estás añadiendo o modificando.
+Envíanos un Pull Request explicando brevemente qué estás añadiendo o modificando.
 
 Normas de Formato
 
